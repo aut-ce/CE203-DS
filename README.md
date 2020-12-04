@@ -31,4 +31,5 @@ Data structures and Algorithms at the Amirkabir University of Tech.
 * [Mohammad ebrahim Adibzadeh](https://github.com/pwdz)
 * [MohammadMohsen Mohammadi](https://github.com/MrMiM77)
 * [Alireza Moazeni](https://github.com/amoazeni75)
+* [Parsa Farinnia](https://github.com/parsafarinnia)
 * [Saman Hoseini](https://github.com/saman2000hoseini)
